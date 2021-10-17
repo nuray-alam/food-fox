@@ -1,0 +1,11 @@
+.food {
+  border: 1px solid lightgray;
+  border-radius: 5%;
+}
+.food img {
+  width: 100%;
+  border-radius: 5%;
+}
+.food:hover{
+    background-color: rgba(255, 89, 60, 0.767);
+}

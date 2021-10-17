@@ -1,0 +1,11 @@
+.nav-bar {
+  background-color: #4d054b;
+  color: white;
+}
+.nav-bar img {
+  border-radius: 20%;
+}
+.login-link {
+  border-radius: 10px;
+  background-color: tomato;
+}
